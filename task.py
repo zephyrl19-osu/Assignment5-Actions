@@ -7,4 +7,4 @@ def computecirclearea(radius):
 
 
 def firstandlast(inputlist):
-    return inputlist[0], inputlist[len(inputlist)-1]
+    return inputlist[0], inputlist[len(inputlist) - 1]
