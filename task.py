@@ -10,7 +10,7 @@ def firstandlast(inputlist):
     return inputlist[0], inputlist[len(inputlist) - 1]
 
 
-def timebetwdates(date1, date2):
+def timedates(date1, date2):
     # date input formate MMDDYYYY
     daydiff = 0
     day1 = int(date1[1])
