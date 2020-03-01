@@ -26,7 +26,7 @@ class TestCase(unittest.TestCase):
         date1 = [10, 10, 2001]
         date2 = [10, 10, 2002]
 
-        self.assertEqual(expected, task.timebetweendates(date1, date2))
+        self.assertEqual(expected, task.timebetwdates(date1, date2))
 
 
 if __name__ == '__main__':
