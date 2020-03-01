@@ -17,7 +17,5 @@ class TestCase(unittest.TestCase):
         self.assertEqual(expected, task.computecirclearea(3))
 
 
-
-
 if __name__ == '__main__':
     unittest.main()
